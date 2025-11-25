@@ -1,14 +1,14 @@
 import 'dart:io';
 
 import 'package:firebase_core/firebase_core.dart';
-import 'package:first_wtf_app/bottom_navigation.dart';
-import 'package:first_wtf_app/firebase_options.dart';
-import 'package:first_wtf_app/pages/forgot_password_page.dart';
-import 'package:first_wtf_app/pages/login_page.dart';
-import 'package:first_wtf_app/pages/onboarding_page.dart';
-import 'package:first_wtf_app/pages/signup_page.dart';
-import 'package:first_wtf_app/provider/hospital_notifier.dart';
-import 'package:first_wtf_app/provider/user_notifier.dart';
+import 'package:medicall_app2/bottom_navigation.dart';
+import 'package:medicall_app2/firebase_options.dart';
+import 'package:medicall_app2/pages/forgot_password_page.dart';
+import 'package:medicall_app2/pages/login_page.dart';
+import 'package:medicall_app2/pages/onboarding_page.dart';
+import 'package:medicall_app2/pages/signup_page.dart';
+import 'package:medicall_app2/provider/hospital_notifier.dart';
+import 'package:medicall_app2/provider/user_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:google_sign_in/google_sign_in.dart';

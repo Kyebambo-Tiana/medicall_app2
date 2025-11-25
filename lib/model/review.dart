@@ -1,4 +1,4 @@
-import 'package:first_wtf_app/model/user_detail.dart';
+import 'package:medicall_app2/model/user_detail.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'review.g.dart';

@@ -1,7 +1,7 @@
-import 'package:first_wtf_app/model/hospital.dart';
-import 'package:first_wtf_app/provider/hospital_notifier.dart';
-import 'package:first_wtf_app/widgets/contact_item.dart';
-import 'package:first_wtf_app/widgets/hospital_list.dart';
+import 'package:medicall_app2/model/hospital.dart';
+import 'package:medicall_app2/provider/hospital_notifier.dart';
+import 'package:medicall_app2/widgets/contact_item.dart';
+import 'package:medicall_app2/widgets/hospital_list.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

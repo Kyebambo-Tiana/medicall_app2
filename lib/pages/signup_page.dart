@@ -1,8 +1,8 @@
-import 'package:first_wtf_app/provider/user_notifier.dart';
-import 'package:first_wtf_app/widgets/custom_button.dart';
-import 'package:first_wtf_app/widgets/custom_textfield.dart';
-import 'package:first_wtf_app/widgets/password_textfield.dart';
-import 'package:first_wtf_app/widgets/social_signin.dart';
+import 'package:medicall_app2/provider/user_notifier.dart';
+import 'package:medicall_app2/widgets/custom_button.dart';
+import 'package:medicall_app2/widgets/custom_textfield.dart';
+import 'package:medicall_app2/widgets/password_textfield.dart';
+import 'package:medicall_app2/widgets/social_signin.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';

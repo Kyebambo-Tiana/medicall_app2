@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:first_wtf_app/widgets/custom_button.dart';
-import 'package:first_wtf_app/widgets/custom_textfield.dart';
+import 'package:medicall_app2/widgets/custom_button.dart';
+import 'package:medicall_app2/widgets/custom_textfield.dart';
 import 'package:flutter/material.dart';
 import 'package:otp_input/otp_input.dart';
 

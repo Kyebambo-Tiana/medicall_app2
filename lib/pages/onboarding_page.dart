@@ -1,5 +1,5 @@
-import 'package:first_wtf_app/model/onboarding_item.dart';
-import 'package:first_wtf_app/widgets/custom_indicator.dart';
+import 'package:medicall_app2/model/onboarding_item.dart';
+import 'package:medicall_app2/widgets/custom_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

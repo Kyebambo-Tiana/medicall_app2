@@ -1,5 +1,5 @@
 
-import 'package:first_wtf_app/provider/user_notifier.dart';
+import 'package:medicall_app2/provider/user_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

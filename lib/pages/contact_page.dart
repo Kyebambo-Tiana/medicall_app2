@@ -1,7 +1,7 @@
-import 'package:first_wtf_app/widgets/hospital_list.dart';
+import 'package:medicall_app2/widgets/hospital_list.dart';
 import 'package:flutter/material.dart';
 
-import '../widgets/contact_item.dart';
+import '/widgets/contact_item.dart';
 
 class ContactPage extends StatelessWidget {
   const ContactPage({super.key});

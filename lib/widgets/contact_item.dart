@@ -1,4 +1,4 @@
-import 'package:first_wtf_app/model/hospital.dart';
+import 'package:medicall_app2/model/hospital.dart';
 import 'package:flutter/material.dart';
 
 

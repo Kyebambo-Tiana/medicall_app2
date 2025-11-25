@@ -1,6 +1,7 @@
-import 'package:first_wtf_app/model/user_detail.dart';
-import 'package:first_wtf_app/pages/notifications_page.dart';
-import 'package:first_wtf_app/provider/user_notifier.dart';
+import 'package:medicall_app2/model/user_detail.dart';
+import 'package:medicall_app2/pages/edit_profile.dart';
+import 'package:medicall_app2/pages/notifications_page.dart';
+import 'package:medicall_app2/provider/user_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -89,7 +90,12 @@ class _ProfilePageState extends State<ProfilePage> {
           trailing: Icon(Icons.arrow_forward_ios_outlined, size: 16),
         ),
         Divider(),
-        ListTile(
+        ListTile(onTap: () {
+  Navigator.push(
+    context,
+    MaterialPageRoute(builder: (context) => const EditProfilePage()),
+  );
+},
           title: Text("Payment Mwthods", style: TextStyle(fontSize: 16)),
           trailing: Icon(Icons.arrow_forward_ios_outlined, size: 16),
         ),
